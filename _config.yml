@@ -1,6 +1,6 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
+name: CamilaFernandesdev
+title: Camila Fernandes | My portfolio
 description: Jekflix is a template for Jekyll inspired by Netflix and made by
   Thiago Rossener.
 tags:
@@ -13,15 +13,15 @@ show_hero: true
 menu:
   - title: Home
     url: /
-  - title: About
+  - title: About me
     url: /about
-  - title: Contact
+  - title: Data Engineering Projects
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: cafernandes525@gmail.com
 # See: https://disqus.com/
-disqus_username: disqus_username
+disqus_username: CamilaFernandesdev
 # Contact Form Setting
 # See: https://formspree.io/
 formspree_form_id: formspree_form_id
@@ -29,12 +29,10 @@ formspree_form_id: formspree_form_id
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: CamilaFernandesdev
+instagram_username: cafer_rnandes
+linkedin_username: clf525
+medium_username: CamilaFernandesdev
 
 
 # Posts Settings
